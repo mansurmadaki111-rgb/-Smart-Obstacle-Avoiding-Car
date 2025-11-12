@@ -37,7 +37,7 @@ Working Principle:
 4. If no obstacle is detected, it keeps moving forward.
 
 
-ibraries Used:
+Libraries Used:
 
 Before uploading the code, install the following libraries:
 
